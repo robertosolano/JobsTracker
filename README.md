@@ -1,5 +1,12 @@
 # 📌 Jobs Tracker  
 **A desktop tool to track and analyze your job applications during an active job search.**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue" />
+  <img src="https://img.shields.io/badge/GUI-Tkinter-orange" />
+  <img src="https://img.shields.io/badge/Database-SQLite-lightgrey" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+</p>
 
 > **Note:**  
 > When you upload your project screenshot to the repository, replace the placeholder below with the RAW URL of your image.  
