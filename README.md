@@ -90,11 +90,6 @@ This will open the graphical interface where you can:
 
 ---
 
-## 📁 Project Structure  
-*(If you want, I can auto-generate this section once you share your current folder tree.)*
-
----
-
 ## 🗺️ Roadmap  
 - [ ] Job scraping  
 - [ ] Analytics dashboard  
