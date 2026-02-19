@@ -8,13 +8,7 @@
   <img src="https://img.shields.io/badge/Status-Active-success" />
 </p>
 
-> **Note:**  
-> When you upload your project screenshot to the repository, replace the placeholder below with the RAW URL of your image.  
-> ```md
-> <!-- Replace this line with your image:
-> ![Jobs Tracker Screenshot](URL_TO_YOUR_IMAGE)
-> -->
-> ```
+![Jobs Tracker Screenshot](https://raw.githubusercontent.com/robertosolano/JobsTracker/45f18854fba51aaa36653451c3e9ebca22a00839/assets/GUI.png)
 
 ---
 
